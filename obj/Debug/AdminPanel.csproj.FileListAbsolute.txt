@@ -1,0 +1,14 @@
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.csprojAssemblyReference.cache
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.form_adminpanel.resources
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.cache
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.Formmain.resources
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\bin\Debug\Guna.UI2.dll
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.csproj.CopyComplete
+C:\Users\Gullu\OneDrive\İş masası\AdminPanel\obj\Debug\AdminPanel.Signup.resources
